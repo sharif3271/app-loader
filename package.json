@@ -1,6 +1,6 @@
 {
-  "name": "@sharif3271/app-loader",
-  "version": "1.0.0",
+  "name": "sh-app-loader",
+  "version": "1.0.3",
   "description": "preload asstes by showing progress bar",
   "main": "index.js",
   "directories": {
@@ -20,5 +20,12 @@
   "license": "ISC",
   "dependencies": {
     "uglify-es": "^3.3.9"
+  },
+  "bin": {
+    "sh-app-loader": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharif3271/app-loader"
   }
 }
