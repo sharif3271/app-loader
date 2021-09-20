@@ -1,5 +1,5 @@
 {
-  "name": "@clarity/app-loader",
+  "name": "@sharif3271/app-loader",
   "version": "1.0.0",
   "description": "preload asstes by showing progress bar",
   "main": "index.js",
@@ -13,9 +13,10 @@
     "preload",
     "asstes",
     "progress",
-    "bar"
+    "bar",
+    "preload web app"
   ],
-  "author": "clarity",
+  "author": "Sharif Eiri",
   "license": "ISC",
   "dependencies": {
     "uglify-es": "^3.3.9"
