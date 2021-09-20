@@ -1,0 +1,23 @@
+{
+  "name": "@clarity/app-loader",
+  "version": "1.0.0",
+  "description": "preload asstes by showing progress bar",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "preload",
+    "asstes",
+    "progress",
+    "bar"
+  ],
+  "author": "clarity",
+  "license": "ISC",
+  "dependencies": {
+    "uglify-es": "^3.3.9"
+  }
+}
